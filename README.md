@@ -18,6 +18,12 @@ I am looking to team up with other researchers, professionals, or bored jobless 
 
 one last thing. Is this code is EXTREMELY performance efficient. Was able to easily modify a massive 21,000+ vertices, 20 mb+ .OBJ file of an entire MI-24 helicopter and perform amazing functions with it in just a couple seconds (NO GPU) just simply using cpu on a 4gb ram laptop. 
 
+please feel free to contact me via the following
+
+facebook: https://www.facebook.com/profile.php?id=100071896345565
+
+gmail: josepherickson135@gmail.com
+
 enjoy.
 
 
