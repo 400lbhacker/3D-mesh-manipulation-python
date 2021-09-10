@@ -16,6 +16,8 @@ here is a following example, the first img being the initial unmodified original
 
 I am looking to team up with other researchers, professionals, or bored jobless python enthusiast like myself to create a python code to perform hybridization of two models using python, genetic algorythems in python, signal processing or conv/relu/guascian/laplace (etc), CPPN & MD-HYPERNEAT like functions on a model using python, and many other things to create us a endlessforms-like engine, I do beleive we can get it down to a single .py file
 
+one last thing. Is this code is EXTREMELY performance efficient. Was able to easily modify a massive 21,000+ vertices, 20 mb+ .OBJ file of an entire MI-24 helicopter and perform amazing functions with it in just a couple seconds (NO GPU) just simply using cpu on a 4gb ram laptop. 
+
 enjoy.
 
 
